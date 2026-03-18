@@ -3,22 +3,25 @@
 ## Landing Page - Escritório de Advocacia
 
 :busts_in_silhouette:**INTEGRANTES** <br/>
-- Gladson Vinícios<br/>
-- Tatiana<br/>
-- Paulo Victor<br/>
-- Nickson<br/>
-- Gabriel Carvalho<br/>
-- Luan Augusto<br/>
+- `Gladson Vinícios`<br/>
+- `Tatiana da Costa`<br/>
+- `Nickson Kleyton`<br/>
+- `Paulo Victor`<br/>
+- `Gabriel Carvalho`<br/>
+- `Luan Augusto`<br/><br/>
 
 :memo:**DESCRIÇÃO DA PROPOSTA** <br/>
 Página de oferecimento de serviços
-
+<br/>
+<br/>
 :dart:**PÚBLICO-ALVO** <br/>
 Internautas consumidores de mídas-sociais
-
+<br/>
+<br/>
 :computer:**API ESCOLHIDA** <br/>
 DataJud
-
+<br/>
+<br/>
 :date:**PLANEJAMENTO DAS TAREFAS** <br/>
 O desenvolvimento da Landing Page, voltada para a área da advocacia trabalhista, será realizado ao longo de quatro semanas. Com divisão de tarefas entre os seis integrantes da equipe, visando garantir organização, qualidade e cumprimento dos prazos estabelecidos.
 <br/>
