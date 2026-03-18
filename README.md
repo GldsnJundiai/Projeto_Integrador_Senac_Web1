@@ -2,30 +2,30 @@
 
 ## Landing Page - Escritório de Advocacia
 
-**Integrantes:** <br/>
-- Gladson<br/>
+:busts_in_silhouette:**INTEGRANTES** <br/>
+- Gladson Vinícios<br/>
 - Tatiana<br/>
-- Paulo<br/>
+- Paulo Victor<br/>
 - Nickson<br/>
-- Gabriel<br/>
-- Luan<br/>
+- Gabriel Carvalho<br/>
+- Luan Augusto<br/>
 
-**Descrição da proposta:** <br/>
+:memo:**DESCRIÇÃO DA PROPOSTA** <br/>
 Página de oferecimento de serviços
 
-**Publico-alvo:** <br/>
+:dart:**PÚBLICO-ALVO** <br/>
 Internautas consumidores de mídas-sociais
 
-**API escolhida:** <br/>
+:computer:**API ESCOLHIDA** <br/>
 DataJud
 
-**Planejamento das tarefas:** <br/>
+:date:**PLANEJAMENTO DAS TAREFAS** <br/>
 sdasdsadasofjaoifj
 
-**Estrutura prevista da Landing Page:** <br/><br/>
+## Estrutura prevista da Landing Page:
 Página Inicial do site:
 ![Imagem da tela de início.](/assets/pg1.png)<br/><br/>
 Página explicando sobre a empresa:
-![Imagem da tela de início.](/assets/pg2.png)<br/><br/>
+![Imagem da tela de sobre.](/assets/pg2.png)<br/><br/>
 Página sobre a atuação da empresa:
-![Imagem da tela de início.](/assets/pg3.png)
+![Imagem da tela de atuação.](/assets/pg3.png)
