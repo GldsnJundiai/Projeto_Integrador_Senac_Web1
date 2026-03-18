@@ -9,6 +9,7 @@ Tatiane
 Paulo
 Nickson
 Gabriel
+Luan
 
 Descrição da proposta:
 Página de oferecimento de serviços
