@@ -11,13 +11,19 @@
 - `Luan Augusto`<br/><br/>
 
 :memo:**DESCRIÇÃO DA PROPOSTA** <br/>
-&emsp;Página de oferecimento de serviços
+&emsp;Muitas pessoas enfrentam **dúvidas sobre seus direitos trabalhistas**, mas não sabem exatamanete quando procurar um advogado ou quais medidas podem tomar. Além disso, há uma **dificuldade de acesso a informações jurídicas claras e confiáveis**, pois o conteúdo disponível muitas vezes utiliza linguagem técnica ou não oferece uma forma simples de contato com um profissional. <br/>
+&emsp;Dessa forma, identifica-se a necessidade de uma **plataforma digital que apresente informações acessíveis e permita um contato rápido com um advogado especializado**.
 <br/>
 <br/>
 :dart:**PÚBLICO-ALVO** <br/>
-&emsp;Internautas consumidores de mídas-sociais
+&emsp;O público alvo da landing page é composto por **pessoas que necessitam de orientação jurídica**, especialmente nas áreas de **direito trabalhista**, como trabalhadores que enfrentam problemas relacionados ao vínculo empregatício, rescisão de contrato, horas extras não pagas, assédio no ambiente de trabalho ou demissão sem o pagamento correto dos direitos. <br/><br/>
+&emsp;Esse público geralmente apresenta as seguintes características: 
+* **Faixa etária:** Entre 25 e 60 anos.
+* **Perfil:** Trabalhadores formais ou informais que buscam esclarecimento sobre seus direitos.
+* **Comportamento digital:** Utilizam a internet e mecanismos de busca para encontrar informações jurídicas e profissionais especializados.
+* **Necessidade principal:** Compreender seus direitos e obter orientação jurídica confiável. 
 <br/>
-<br/>
+
 :computer:**API ESCOLHIDA** <br/>
 &emsp;A API escolhida foi a **DataJud**, uma ferramenta que permite o acesso público aos metadados de processos judiciais de todo o Brasil. Os dados disponibilizados pela API são originários da **Base Nacional de Dados do Poder Judiciário** e seguem os critérios estabelecidos pela Portaria Nº 160 de 09/09/2020 bem como o resguardo de processos sigilosos e dados de partes.
 <br/>
