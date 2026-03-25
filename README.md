@@ -59,3 +59,7 @@ Página explicando sobre a empresa:
 ![Imagem da tela de sobre.](/assets/pg2.png)<br/><br/>
 Página sobre a atuação da empresa:
 ![Imagem da tela de atuação.](/assets/pg3.png)
+Página mostrando a tragetória da empresa em dados.
+![Imagem da tela de dados](/assets/pg4.png)
+Página de contato com um botão que leva ao whatsapp para atendimento.
+![Imagem da tela de dados](/assets/pg5.png)
