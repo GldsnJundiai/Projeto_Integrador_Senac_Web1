@@ -4,11 +4,12 @@
 
 :busts_in_silhouette:**INTEGRANTES** <br/>
 - `Gladson Vinícios`<br/>
-- `Tatiana da Costa`<br/>
+- `Tatiana Hollanda`<br/>
 - `Nickson Kleyton`<br/>
 - `Paulo Victor`<br/>
 - `Gabriel Carvalho`<br/>
-- `Luan Augusto`<br/><br/>
+- `Luan Augusto`<br/>
+- `Ana Diva`<br/><br/>
 
 :memo:**DESCRIÇÃO DA PROPOSTA** <br/>
 &emsp;Muitas pessoas enfrentam **dúvidas sobre seus direitos trabalhistas**, mas não sabem exatamanete quando procurar um advogado ou quais medidas podem tomar. Além disso, há uma **dificuldade de acesso a informações jurídicas claras e confiáveis**, pois o conteúdo disponível muitas vezes utiliza linguagem técnica ou não oferece uma forma simples de contato com um profissional. <br/>
@@ -46,9 +47,9 @@
 <br/>
 &emsp;A equipe foi organizada de forma estratégica, considerando diferentes responsabilidades dentro do projeto:
 <br/>
-* **`Gladson`:** Responsável pela criação do repositório no GitHub e pela elaboração do wireframe da página, definindo a estrutura visual inicial da Landing Page.<br/>
+* **`Gladson` e `Ana`:** Responsáveis pela criação do repositório no GitHub e pela elaboração do wireframe da página, definindo a estrutura visual inicial da Landing Page, assim como a criação e públicação do site.<br/>
 * **`Tatiana`:** Responsável pela organização do projeto, incluindo a distribuição das funções entre os integrantes, definição da proposta do projeto, identificação do público-alvo e levantamento das necessidades a serem atendidas pela aplicação.<br/>
-* **`Nickson`, `Paulo` e `Gabriel`:** Responsável pela escolha da API pública a ser utilizada, bem como pela configuração inicial e testes de integração com a aplicação.<br/>
+* **`Nickson`, `Paulo` e `Gabriel`:** Responsáveis pela escolha da API pública a ser utilizada, bem como pela configuração inicial e testes de integração com a aplicação.<br/>
 * **`Luan`:** Responsável por apoiar na elaboração do wireframe e na elaboração e documentação do README do projeto.<br/><br/>
 **Lading Page:** https://queroadv.netlify.app/
 ## Estrutura prevista da Landing Page:
