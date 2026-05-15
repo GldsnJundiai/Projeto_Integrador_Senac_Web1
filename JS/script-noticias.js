@@ -4,7 +4,7 @@ const lista_noticias = document.querySelector('#lista-noticias');
 const buscarNoticias = async () =>{
     const chaveAPI = 'fb126b2d446041c38d5e632bdc526609';
     //Endpoints definidos para chamar apenas as noticias referentes à advocacia
-    const endpoint = `https://newsapi.org/v2/everything?q=direito+OR+lei+OR+advogado+OR+direito+trabalhista&language=pt&sortBy=publishedAt&pageSize=9&apiKey=${chaveAPI}`;
+    const endpoint = `https://newsapi.org/v2/everything?q=direito+OR+advogado+OR+direito+trabalhista&language=pt&sortBy=publishedAt&pageSize=9&apiKey=${chaveAPI}`;
 
     try {
         const response = await fetch(endpoint);
