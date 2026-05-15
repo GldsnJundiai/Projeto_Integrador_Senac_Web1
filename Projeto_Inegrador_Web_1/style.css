@@ -24,6 +24,7 @@ html {
 
 body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: var(--preto); color: rgb(255, 255, 255); }
 
+
 /* Menu Fixo com Efeito Vidro - Transparência Ajustada */
 #navbar {
     position: fixed; /* Fixa o menu no topo da página durante a navegação */
@@ -39,6 +40,7 @@ body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-
     align-items: center; /* Centraliza verticalmente a logo e os links */
     transition: background 0.5s ease-in-out; /* Suaviza a mudança de cor programada no JavaScript */
 }
+
 
 #navbar nav {
     width: 100%;
@@ -63,6 +65,7 @@ body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-
     font-weight: 500; /* Define uma espessura média para a fonte */
     transition: 0.3s; /* Define a velocidade da animação ao passar o rato */
 }
+
 
 /* Efeito ao passar o rato nos links */
 #navbar ul li a:hover { 
